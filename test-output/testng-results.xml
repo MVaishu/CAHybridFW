@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Setting up report and test is getting ready]]>
+    </line>
+    <line>
+      <![CDATA[Setting done -Test can be started]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test completed >>>Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test completed >>>Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test completed >>>Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test completed >>>Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test completed >>>Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test completed >>>Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test completed >>>Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test completed >>>Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test completed >>>Report generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test completed >>>Report generated]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-06-05T16:05:13 IST" name="Default suite" finished-at="2022-06-05T16:05:54 IST" duration-ms="41775">
+    <groups>
+    </groups>
+    <test started-at="2022-06-05T16:05:13 IST" name="Default test" finished-at="2022-06-05T16:05:54 IST" duration-ms="41775">
+      <class name="com.md.runner.TestC">
+        <test-method is-config="true" signature="setUpSuit()[pri:0, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:12 IST" name="setUpSuit" finished-at="2022-06-05T16:05:13 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Setting up report and test is getting ready]]>
+            </line>
+            <line>
+              <![CDATA[Setting done -Test can be started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpSuit -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:13 IST" name="setUp" finished-at="2022-06-05T16:05:19 IST" duration-ms="6197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:1, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:19 IST" name="test1" finished-at="2022-06-05T16:05:22 IST" duration-ms="3178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="tearDownM(org.testng.ITestResult)[pri:0, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:22 IST" name="tearDownM" finished-at="2022-06-05T16:05:23 IST" duration-ms="840" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test1 status=SUCCESS method=TestC.test1()[pri:1, instance:com.md.runner.TestC@71def8f8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test completed >>>Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownM -->
+        <test-method signature="test2()[pri:2, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:23 IST" name="test2" finished-at="2022-06-05T16:05:24 IST" duration-ms="1266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDownM(org.testng.ITestResult)[pri:0, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:24 IST" name="tearDownM" finished-at="2022-06-05T16:05:24 IST" duration-ms="347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test2 status=SUCCESS method=TestC.test2()[pri:2, instance:com.md.runner.TestC@71def8f8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test completed >>>Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownM -->
+        <test-method signature="test3()[pri:3, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:24 IST" name="test3" finished-at="2022-06-05T16:05:27 IST" duration-ms="2995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="tearDownM(org.testng.ITestResult)[pri:0, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:27 IST" name="tearDownM" finished-at="2022-06-05T16:05:28 IST" duration-ms="360" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test3 status=SUCCESS method=TestC.test3()[pri:3, instance:com.md.runner.TestC@71def8f8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test completed >>>Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownM -->
+        <test-method signature="test4()[pri:4, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:28 IST" name="test4" finished-at="2022-06-05T16:05:28 IST" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="tearDownM(org.testng.ITestResult)[pri:0, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:28 IST" name="tearDownM" finished-at="2022-06-05T16:05:29 IST" duration-ms="359" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test4 status=SUCCESS method=TestC.test4()[pri:4, instance:com.md.runner.TestC@71def8f8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test completed >>>Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownM -->
+        <test-method signature="test5()[pri:5, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:29 IST" name="test5" finished-at="2022-06-05T16:05:39 IST" duration-ms="10518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method is-config="true" signature="tearDownM(org.testng.ITestResult)[pri:0, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:39 IST" name="tearDownM" finished-at="2022-06-05T16:05:40 IST" duration-ms="375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test5 status=SUCCESS method=TestC.test5()[pri:5, instance:com.md.runner.TestC@71def8f8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test completed >>>Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownM -->
+        <test-method signature="test6()[pri:6, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:40 IST" name="test6" finished-at="2022-06-05T16:05:42 IST" duration-ms="2425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method is-config="true" signature="tearDownM(org.testng.ITestResult)[pri:0, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:42 IST" name="tearDownM" finished-at="2022-06-05T16:05:43 IST" duration-ms="627" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test6 status=SUCCESS method=TestC.test6()[pri:6, instance:com.md.runner.TestC@71def8f8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test completed >>>Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownM -->
+        <test-method signature="test7()[pri:7, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:43 IST" name="test7" finished-at="2022-06-05T16:05:45 IST" duration-ms="2251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method is-config="true" signature="tearDownM(org.testng.ITestResult)[pri:0, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:45 IST" name="tearDownM" finished-at="2022-06-05T16:05:45 IST" duration-ms="303" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test7 status=SUCCESS method=TestC.test7()[pri:7, instance:com.md.runner.TestC@71def8f8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test completed >>>Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownM -->
+        <test-method signature="test8()[pri:8, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:45 IST" name="test8" finished-at="2022-06-05T16:05:48 IST" duration-ms="3165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method is-config="true" signature="tearDownM(org.testng.ITestResult)[pri:0, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:48 IST" name="tearDownM" finished-at="2022-06-05T16:05:49 IST" duration-ms="330" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test8 status=SUCCESS method=TestC.test8()[pri:8, instance:com.md.runner.TestC@71def8f8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test completed >>>Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownM -->
+        <test-method signature="test9()[pri:9, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:49 IST" name="test9" finished-at="2022-06-05T16:05:51 IST" duration-ms="2150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method is-config="true" signature="tearDownM(org.testng.ITestResult)[pri:0, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:51 IST" name="tearDownM" finished-at="2022-06-05T16:05:51 IST" duration-ms="290" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test9 status=SUCCESS method=TestC.test9()[pri:9, instance:com.md.runner.TestC@71def8f8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test completed >>>Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownM -->
+        <test-method signature="test10()[pri:10, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:51 IST" name="test10" finished-at="2022-06-05T16:05:53 IST" duration-ms="2192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method is-config="true" signature="tearDownM(org.testng.ITestResult)[pri:0, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:53 IST" name="tearDownM" finished-at="2022-06-05T16:05:54 IST" duration-ms="292" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test10 status=SUCCESS method=TestC.test10()[pri:10, instance:com.md.runner.TestC@71def8f8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test completed >>>Report generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownM -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.md.runner.TestC@71def8f8]" started-at="2022-06-05T16:05:54 IST" name="tearDown" finished-at="2022-06-05T16:05:54 IST" duration-ms="599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.md.runner.TestC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
